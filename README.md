@@ -1,10 +1,16 @@
 # BlackOn
 Proyecto de escuela realizado por: 
+
 ///////////////////////////////////////////
+
   @ManuelSoto
+  
   @HugoNicolas
+  
   @AldairCuevas
+  
   @GerardoGuerra
+  
 ///////////////////////////////////////////
 
 
